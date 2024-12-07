@@ -46,6 +46,6 @@ http://localhost:9999
 ## *Video Walkthrough*
 
 For a quick demonstration of the setup process, watch the video:  
-(#)
+[SDA Individual Project-3_045022](#)
 
 ---
