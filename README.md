@@ -1,5 +1,5 @@
 # SDA_Project-3_045022
-# Submitted By: Ishaan Khattar, Streaming Data Analytics- Individual Project 
+Submitted By: Ishaan Khattar, Streaming Data Analytics- Individual Project 
 
 
 # *Team Blog-in-Docker*
